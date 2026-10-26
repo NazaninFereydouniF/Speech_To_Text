@@ -85,3 +85,8 @@ Speech_To_Text/
 📌 Note
 An active internet connection is required, since Google's speech engine runs online.
 If the connection drops, the program shows a clear message and lets you retry.
+
+---
+## 📜 License
+
+Released under the [MIT License](LICENSE).
